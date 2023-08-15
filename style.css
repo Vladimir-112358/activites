@@ -1,0 +1,96 @@
+.wrapper_2{
+    max-width: 100%;
+}
+
+.container_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(17, 91, 157, 0.52),
+    rgba(17, 91, 157, 0.52), rgba(27, 23, 66, 1));
+}
+
+.list_2{
+    margin: 30px auto;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.asdtu_2,
+.esus_2,
+.manage_2,
+.analyst_2{
+    border: 2px solid #115B9D;
+    border-radius: 15px;
+    margin: 10px 2% 20px 10%;
+    background: white;
+}
+
+.calculate_2,
+.bitrix_2,
+.development_2,
+.one_c_2{
+    border: 2px solid #115B9D;
+    border-radius: 15px;
+    margin: 10px 10% 15px 2%;
+    background: #272352 86%;
+}
+
+.asdtu_header_2,
+.calculate_header_2,
+.esus_header_2,
+.bitrix_header_2,
+.manage_header_2,
+.development_header_2,
+.analyst_header_2,
+.one_c_header_2{
+    margin: 35px 0 0 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.asdtu_header_2,
+.esus_header_2,
+.manage_header_2,
+.analyst_header_2{
+    color: rgba(39, 35, 82, 0.83);
+;
+}
+
+.asdtu_content_2,
+.calculate_content_2,
+.esus_content_2,
+.bitrix_content_2,
+.manage_content_2,
+.development_content_2,
+.analyst_content_2,
+.one_c_content_2{
+    margin: 30px 70px;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.calculate_content_2,
+.bitrix_content_2,
+.development_content_2,
+.one_c_content_2{
+    color: #D5D7D7;
+}
+
+.asdtu_content_2,
+.esus_content_2,
+.manage_content_2,
+.analyst_content_2{
+    color: rgba(14, 9, 71, 1);
+}
+
+.calculate_header_2,
+.bitrix_header_2,
+.development_header_2,
+.one_c_header_2{
+    color: #D5D7D7;
+}
+
+
+
+
